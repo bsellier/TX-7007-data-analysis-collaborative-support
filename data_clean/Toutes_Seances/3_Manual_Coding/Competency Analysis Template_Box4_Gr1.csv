@@ -1,0 +1,751 @@
+skill_type,skill,student,note,seance,timespan
+Engagement,Regulation,Student 1 (G1),0.0,Seance_2_FAST_Valise,25
+Responsabilite,Regulation,Student 1 (G1),1.0,Seance_2_FAST_Valise,25
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),1.0,Seance_2_FAST_Valise,25
+Communication,Communication,Student 1 (G1),0.0,Seance_2_FAST_Valise,25
+Ecoute,Communication,Student 1 (G1),1.0,Seance_2_FAST_Valise,25
+Reaction/Retours,Communication,Student 1 (G1),0.0,Seance_2_FAST_Valise,25
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_2_FAST_Valise,25
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),1.0,Seance_2_FAST_Valise,25
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_2_FAST_Valise,25
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),,Seance_2_FAST_Valise,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_2_FAST_Valise,25
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_2_FAST_Valise,25
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),1.0,Seance_2_FAST_Valise,25
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_2_FAST_Valise,25
+Ouverture,Conflit constructif,Student 1 (G1),1.0,Seance_2_FAST_Valise,25
+Engagement,Regulation,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Responsabilite,Regulation,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),-1.0,Seance_2_FAST_Valise,25
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_2_FAST_Valise,25
+Ecoute,Communication,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Reaction/Retours,Communication,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Social,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_2_FAST_Valise,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_2_FAST_Valise,25
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_2_FAST_Valise,25
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,25
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,25
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,25
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,25
+Communication,Communication,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,25
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,25
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,25
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,25
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,25
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,25
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_2_FAST_Valise,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_2_FAST_Valise,25
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),1.0,Seance_2_FAST_Valise,25
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,25
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),,Seance_2_FAST_Valise,25
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),,Seance_2_FAST_Valise,25
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,25
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,25
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,25
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,25
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,25
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,25
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,25
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,25
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,25
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_2_FAST_Valise,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_2_FAST_Valise,25
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,25
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,25
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,25
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,25
+Engagement,Regulation,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Responsabilite,Regulation,Student 5 (F4 intello),2.0,Seance_2_FAST_Valise,25
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Communication,Communication,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,25
+Ecoute,Communication,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,25
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Social,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),,Seance_2_FAST_Valise,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_2_FAST_Valise,25
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,25
+Argumentation ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Ouverture,Conflit constructif,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,25
+Engagement,Regulation,Student 1 (G1),0.0,Seance_2_FAST_Valise,50
+Responsabilite,Regulation,Student 1 (G1),1.0,Seance_2_FAST_Valise,50
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_2_FAST_Valise,50
+Communication,Communication,Student 1 (G1),0.0,Seance_2_FAST_Valise,50
+Ecoute,Communication,Student 1 (G1),0.0,Seance_2_FAST_Valise,50
+Reaction/Retours,Communication,Student 1 (G1),0.0,Seance_2_FAST_Valise,50
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_2_FAST_Valise,50
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),0.0,Seance_2_FAST_Valise,50
+Social,Travail d'equipe,Student 1 (G1),1.0,Seance_2_FAST_Valise,50
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),-1.0,Seance_2_FAST_Valise,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_2_FAST_Valise,50
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_2_FAST_Valise,50
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),1.0,Seance_2_FAST_Valise,50
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_2_FAST_Valise,50
+Ouverture,Conflit constructif,Student 1 (G1),0.0,Seance_2_FAST_Valise,50
+Engagement,Regulation,Student 2 (F1-lunette),-1.0,Seance_2_FAST_Valise,50
+Responsabilite,Regulation,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_2_FAST_Valise,50
+Ecoute,Communication,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Reaction/Retours,Communication,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Social,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_2_FAST_Valise,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_2_FAST_Valise,50
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),1.0,Seance_2_FAST_Valise,50
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,50
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,50
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,50
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,50
+Communication,Communication,Student 3 (F2 cheveux bouclés),1.0,Seance_2_FAST_Valise,50
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,50
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,50
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),-2.0,Seance_2_FAST_Valise,50
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,50
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,50
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),-2.0,Seance_2_FAST_Valise,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_2_FAST_Valise,50
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,50
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,50
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),1.0,Seance_2_FAST_Valise,50
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,50
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,50
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,50
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,50
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),-1.0,Seance_2_FAST_Valise,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_2_FAST_Valise,50
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,50
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,50
+Engagement,Regulation,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,50
+Responsabilite,Regulation,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,50
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,50
+Communication,Communication,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,50
+Ecoute,Communication,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,50
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,50
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,50
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,50
+Social,Travail d'equipe,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,50
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),-1.0,Seance_2_FAST_Valise,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_2_FAST_Valise,50
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),-1.0,Seance_2_FAST_Valise,50
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),2.0,Seance_2_FAST_Valise,50
+Argumentation ,Conflit constructif,Student 5 (F4 intello),2.0,Seance_2_FAST_Valise,50
+Ouverture,Conflit constructif,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,50
+Engagement,Regulation,Student 1 (G1),0.0,Seance_2_FAST_Valise,75
+Responsabilite,Regulation,Student 1 (G1),1.0,Seance_2_FAST_Valise,75
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_2_FAST_Valise,75
+Communication,Communication,Student 1 (G1),0.0,Seance_2_FAST_Valise,75
+Ecoute,Communication,Student 1 (G1),0.0,Seance_2_FAST_Valise,75
+Reaction/Retours,Communication,Student 1 (G1),0.0,Seance_2_FAST_Valise,75
+Travail equilibre ,Travail d'equipe,Student 1 (G1),1.0,Seance_2_FAST_Valise,75
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),1.0,Seance_2_FAST_Valise,75
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_2_FAST_Valise,75
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),,Seance_2_FAST_Valise,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_2_FAST_Valise,75
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),-1.0,Seance_2_FAST_Valise,75
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),1.0,Seance_2_FAST_Valise,75
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_2_FAST_Valise,75
+Ouverture,Conflit constructif,Student 1 (G1),0.0,Seance_2_FAST_Valise,75
+Engagement,Regulation,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Responsabilite,Regulation,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_2_FAST_Valise,75
+Ecoute,Communication,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Reaction/Retours,Communication,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Social,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_2_FAST_Valise,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_2_FAST_Valise,75
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),-1.0,Seance_2_FAST_Valise,75
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_2_FAST_Valise,75
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_2_FAST_Valise,75
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,75
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,75
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,75
+Communication,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,75
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,75
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,75
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,75
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,75
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,75
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_2_FAST_Valise,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_2_FAST_Valise,75
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,75
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),-1.0,Seance_2_FAST_Valise,75
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),1.0,Seance_2_FAST_Valise,75
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_2_FAST_Valise,75
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,75
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,75
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,75
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,75
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,75
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,75
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,75
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,75
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,75
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_2_FAST_Valise,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_2_FAST_Valise,75
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),-1.0,Seance_2_FAST_Valise,75
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_2_FAST_Valise,75
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,75
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_2_FAST_Valise,75
+Engagement,Regulation,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,75
+Responsabilite,Regulation,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,75
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,75
+Communication,Communication,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,75
+Ecoute,Communication,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,75
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,75
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,75
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,75
+Social,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,75
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),,Seance_2_FAST_Valise,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_2_FAST_Valise,75
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),-2.0,Seance_2_FAST_Valise,75
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,75
+Argumentation ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_2_FAST_Valise,75
+Ouverture,Conflit constructif,Student 5 (F4 intello),0.0,Seance_2_FAST_Valise,75
+Engagement,Regulation,Student 1 (G1),0.0,Seance_3_AC_Grattoir,25
+Responsabilite,Regulation,Student 1 (G1),1.0,Seance_3_AC_Grattoir,25
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_3_AC_Grattoir,25
+Communication,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,25
+Ecoute,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,25
+Reaction/Retours,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,25
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,25
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,25
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,25
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),,Seance_3_AC_Grattoir,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_3_AC_Grattoir,25
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_3_AC_Grattoir,25
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),1.0,Seance_3_AC_Grattoir,25
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_3_AC_Grattoir,25
+Ouverture,Conflit constructif,Student 1 (G1),1.0,Seance_3_AC_Grattoir,25
+Engagement,Regulation,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,25
+Responsabilite,Regulation,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,25
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,25
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,25
+Ecoute,Communication,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,25
+Reaction/Retours,Communication,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,25
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,25
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,25
+Social,Travail d'equipe,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,25
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,25
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),1.0,Seance_3_AC_Grattoir,25
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,25
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,25
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,25
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Communication,Communication,Student 3 (F2 cheveux bouclés),1.0,Seance_3_AC_Grattoir,25
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),1.0,Seance_3_AC_Grattoir,25
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_3_AC_Grattoir,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_3_AC_Grattoir,25
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),1.0,Seance_3_AC_Grattoir,25
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),2.0,Seance_3_AC_Grattoir,25
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,25
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,25
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,25
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,25
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,25
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,25
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,25
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,25
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,25
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,25
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_3_AC_Grattoir,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_3_AC_Grattoir,25
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,25
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,25
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,25
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,25
+Engagement,Regulation,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Responsabilite,Regulation,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Communication,Communication,Student 5 (F4 intello),0.0,Seance_3_AC_Grattoir,25
+Ecoute,Communication,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Reaction/Retours,Communication,Student 5 (F4 intello),0.0,Seance_3_AC_Grattoir,25
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Social,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),,Seance_3_AC_Grattoir,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_3_AC_Grattoir,25
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),0.0,Seance_3_AC_Grattoir,25
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Argumentation ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,25
+Ouverture,Conflit constructif,Student 5 (F4 intello),0.0,Seance_3_AC_Grattoir,25
+Engagement,Regulation,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Responsabilite,Regulation,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Communication,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Ecoute,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Reaction/Retours,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),,Seance_3_AC_Grattoir,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_3_AC_Grattoir,50
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_3_AC_Grattoir,50
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Argumentation ,Conflit constructif,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Ouverture,Conflit constructif,Student 1 (G1),0.0,Seance_3_AC_Grattoir,50
+Engagement,Regulation,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,50
+Responsabilite,Regulation,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,50
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,50
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,50
+Ecoute,Communication,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,50
+Reaction/Retours,Communication,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,50
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,50
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,50
+Social,Travail d'equipe,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,50
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,50
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),1.0,Seance_3_AC_Grattoir,50
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,50
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,50
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,50
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,50
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,50
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,50
+Communication,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,50
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,50
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,50
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,50
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,50
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,50
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_3_AC_Grattoir,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_3_AC_Grattoir,50
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),1.0,Seance_3_AC_Grattoir,50
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,50
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,50
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,50
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,50
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,50
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,50
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,50
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,50
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,50
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,50
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,50
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,50
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_3_AC_Grattoir,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_3_AC_Grattoir,50
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,50
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,50
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),2.0,Seance_3_AC_Grattoir,50
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,50
+Engagement,Regulation,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Responsabilite,Regulation,Student 5 (F4 intello),2.0,Seance_3_AC_Grattoir,50
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Communication,Communication,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Ecoute,Communication,Student 5 (F4 intello),0.0,Seance_3_AC_Grattoir,50
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Social,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),,Seance_3_AC_Grattoir,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_3_AC_Grattoir,50
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),0.0,Seance_3_AC_Grattoir,50
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Argumentation ,Conflit constructif,Student 5 (F4 intello),2.0,Seance_3_AC_Grattoir,50
+Ouverture,Conflit constructif,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,50
+Engagement,Regulation,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Responsabilite,Regulation,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Communication,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Ecoute,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Reaction/Retours,Communication,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),,Seance_3_AC_Grattoir,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_3_AC_Grattoir,75
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_3_AC_Grattoir,75
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),1.0,Seance_3_AC_Grattoir,75
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_3_AC_Grattoir,75
+Ouverture,Conflit constructif,Student 1 (G1),0.0,Seance_3_AC_Grattoir,75
+Engagement,Regulation,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,75
+Responsabilite,Regulation,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,75
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,75
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,75
+Ecoute,Communication,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,75
+Reaction/Retours,Communication,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,75
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,75
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,75
+Social,Travail d'equipe,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,75
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_3_AC_Grattoir,75
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),1.0,Seance_3_AC_Grattoir,75
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,75
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_3_AC_Grattoir,75
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_3_AC_Grattoir,75
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,75
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Communication,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,75
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_3_AC_Grattoir,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_3_AC_Grattoir,75
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),1.0,Seance_3_AC_Grattoir,75
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),-1.0,Seance_3_AC_Grattoir,75
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_3_AC_Grattoir,75
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,75
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,75
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,75
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,75
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,75
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,75
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,75
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,75
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,75
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_3_AC_Grattoir,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_3_AC_Grattoir,75
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,75
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,75
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_3_AC_Grattoir,75
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_3_AC_Grattoir,75
+Engagement,Regulation,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Responsabilite,Regulation,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Communication,Communication,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Ecoute,Communication,Student 5 (F4 intello),0.0,Seance_3_AC_Grattoir,75
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Social,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),,Seance_3_AC_Grattoir,75
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_3_AC_Grattoir,75
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),-1.0,Seance_3_AC_Grattoir,75
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_3_AC_Grattoir,75
+Argumentation ,Conflit constructif,Student 5 (F4 intello),2.0,Seance_3_AC_Grattoir,75
+Ouverture,Conflit constructif,Student 5 (F4 intello),0.0,Seance_3_AC_Grattoir,75
+Engagement,Regulation,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Responsabilite,Regulation,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_4_DTX_Cartable,25
+Communication,Communication,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Ecoute,Communication,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Reaction/Retours,Communication,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_4_DTX_Cartable,25
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_4_DTX_Cartable,25
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),-1.0,Seance_4_DTX_Cartable,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_4_DTX_Cartable,25
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Ouverture,Conflit constructif,Student 1 (G1),1.0,Seance_4_DTX_Cartable,25
+Engagement,Regulation,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,25
+Responsabilite,Regulation,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,25
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,25
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,25
+Ecoute,Communication,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,25
+Reaction/Retours,Communication,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,25
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,25
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,25
+Social,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,25
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_4_DTX_Cartable,25
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),1.0,Seance_4_DTX_Cartable,25
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,25
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,25
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,25
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,25
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,25
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),1.0,Seance_4_DTX_Cartable,25
+Communication,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,25
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),1.0,Seance_4_DTX_Cartable,25
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,25
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,25
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,25
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,25
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),-2.0,Seance_4_DTX_Cartable,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_4_DTX_Cartable,25
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),1.0,Seance_4_DTX_Cartable,25
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),-1.0,Seance_4_DTX_Cartable,25
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),1.0,Seance_4_DTX_Cartable,25
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,25
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,25
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,25
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,25
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,25
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,25
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,25
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,25
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,25
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,25
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_4_DTX_Cartable,25
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,25
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,25
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),2.0,Seance_4_DTX_Cartable,25
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,25
+Engagement,Regulation,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Responsabilite,Regulation,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Communication,Communication,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Ecoute,Communication,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Social,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),-2.0,Seance_4_DTX_Cartable,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_4_DTX_Cartable,25
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),0.0,Seance_4_DTX_Cartable,25
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Argumentation ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Ouverture,Conflit constructif,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,25
+Engagement,Regulation,Student 1 (G1),0.0,Seance_4_DTX_Cartable,50
+Responsabilite,Regulation,Student 1 (G1),1.0,Seance_4_DTX_Cartable,50
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_4_DTX_Cartable,50
+Communication,Communication,Student 1 (G1),1.0,Seance_4_DTX_Cartable,50
+Ecoute,Communication,Student 1 (G1),1.0,Seance_4_DTX_Cartable,50
+Reaction/Retours,Communication,Student 1 (G1),1.0,Seance_4_DTX_Cartable,50
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_4_DTX_Cartable,50
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),0.0,Seance_4_DTX_Cartable,50
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_4_DTX_Cartable,50
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),,Seance_4_DTX_Cartable,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_4_DTX_Cartable,50
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_4_DTX_Cartable,50
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),1.0,Seance_4_DTX_Cartable,50
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_4_DTX_Cartable,50
+Ouverture,Conflit constructif,Student 1 (G1),0.0,Seance_4_DTX_Cartable,50
+Engagement,Regulation,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,50
+Responsabilite,Regulation,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,50
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,50
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,50
+Ecoute,Communication,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,50
+Reaction/Retours,Communication,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,50
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,50
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,50
+Social,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,50
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_4_DTX_Cartable,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_4_DTX_Cartable,50
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),1.0,Seance_4_DTX_Cartable,50
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,50
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_4_DTX_Cartable,50
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_4_DTX_Cartable,50
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),1.0,Seance_4_DTX_Cartable,50
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Communication,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),1.0,Seance_4_DTX_Cartable,50
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_4_DTX_Cartable,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_4_DTX_Cartable,50
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),1.0,Seance_4_DTX_Cartable,50
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_4_DTX_Cartable,50
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,50
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,50
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,50
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_4_DTX_Cartable,50
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_4_DTX_Cartable,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_4_DTX_Cartable,50
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_4_DTX_Cartable,50
+Engagement,Regulation,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Responsabilite,Regulation,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Communication,Communication,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Ecoute,Communication,Student 5 (F4 intello),0.0,Seance_4_DTX_Cartable,50
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Social,Travail d'equipe,Student 5 (F4 intello),0.0,Seance_4_DTX_Cartable,50
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),,Seance_4_DTX_Cartable,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_4_DTX_Cartable,50
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),0.0,Seance_4_DTX_Cartable,50
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Argumentation ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_4_DTX_Cartable,50
+Ouverture,Conflit constructif,Student 5 (F4 intello),0.0,Seance_4_DTX_Cartable,50
+Engagement,Regulation,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,25
+Responsabilite,Regulation,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,25
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,25
+Communication,Communication,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,25
+Ecoute,Communication,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,25
+Reaction/Retours,Communication,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,25
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,25
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,25
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,25
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),,Seance_5_Tension_CV_LM,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_5_Tension_CV_LM,25
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,25
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,25
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,25
+Ouverture,Conflit constructif,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,25
+Engagement,Regulation,Student 2 (F1-lunette),-1.0,Seance_5_Tension_CV_LM,25
+Responsabilite,Regulation,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Communication,Communication,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Ecoute,Communication,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Reaction/Retours,Communication,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Social,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_5_Tension_CV_LM,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_5_Tension_CV_LM,25
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),1.0,Seance_5_Tension_CV_LM,25
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_5_Tension_CV_LM,25
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),-2.0,Seance_5_Tension_CV_LM,25
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,25
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Communication,Communication,Student 3 (F2 cheveux bouclés),1.0,Seance_5_Tension_CV_LM,25
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),1.0,Seance_5_Tension_CV_LM,25
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_5_Tension_CV_LM,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_5_Tension_CV_LM,25
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),1.0,Seance_5_Tension_CV_LM,25
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),1.0,Seance_5_Tension_CV_LM,25
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,25
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,25
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,25
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,25
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,25
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,25
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,25
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,25
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,25
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,25
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_5_Tension_CV_LM,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_5_Tension_CV_LM,25
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,25
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,25
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),2.0,Seance_5_Tension_CV_LM,25
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,25
+Engagement,Regulation,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,25
+Responsabilite,Regulation,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,25
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,25
+Communication,Communication,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,25
+Ecoute,Communication,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,25
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,25
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,25
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,25
+Social,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,25
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),,Seance_5_Tension_CV_LM,25
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_5_Tension_CV_LM,25
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,25
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),2.0,Seance_5_Tension_CV_LM,25
+Argumentation ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,25
+Ouverture,Conflit constructif,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,25
+Engagement,Regulation,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,50
+Responsabilite,Regulation,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,50
+Coordination et evaluation du travail ,Regulation,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,50
+Communication,Communication,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,50
+Ecoute,Communication,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,50
+Reaction/Retours,Communication,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,50
+Travail equilibre ,Travail d'equipe,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,50
+Objectifs du groupe,Travail d'equipe,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,50
+Social,Travail d'equipe,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,50
+Conflit interpersonnel,Intelligence sociale,Student 1 (G1),,Seance_5_Tension_CV_LM,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 1 (G1),,Seance_5_Tension_CV_LM,50
+Partage de temps de parole,Intelligence sociale,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,50
+Maintenir les notions partagées ,Conflit constructif,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,50
+Argumentation ,Conflit constructif,Student 1 (G1),1.0,Seance_5_Tension_CV_LM,50
+Ouverture,Conflit constructif,Student 1 (G1),0.0,Seance_5_Tension_CV_LM,50
+Engagement,Regulation,Student 2 (F1-lunette),-1.0,Seance_5_Tension_CV_LM,50
+Responsabilite,Regulation,Student 2 (F1-lunette),-1.0,Seance_5_Tension_CV_LM,50
+Coordination et evaluation du travail ,Regulation,Student 2 (F1-lunette),-2.0,Seance_5_Tension_CV_LM,50
+Communication,Communication,Student 2 (F1-lunette),-1.0,Seance_5_Tension_CV_LM,50
+Ecoute,Communication,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,50
+Reaction/Retours,Communication,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,50
+Travail equilibre ,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,50
+Objectifs du groupe,Travail d'equipe,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,50
+Social,Travail d'equipe,Student 2 (F1-lunette),-1.0,Seance_5_Tension_CV_LM,50
+Conflit interpersonnel,Intelligence sociale,Student 2 (F1-lunette),,Seance_5_Tension_CV_LM,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 2 (F1-lunette),,Seance_5_Tension_CV_LM,50
+Partage de temps de parole,Intelligence sociale,Student 2 (F1-lunette),1.0,Seance_5_Tension_CV_LM,50
+Maintenir les notions partagées ,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,50
+Argumentation ,Conflit constructif,Student 2 (F1-lunette),-1.0,Seance_5_Tension_CV_LM,50
+Ouverture,Conflit constructif,Student 2 (F1-lunette),0.0,Seance_5_Tension_CV_LM,50
+Engagement,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,50
+Responsabilite,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,50
+Coordination et evaluation du travail ,Regulation,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,50
+Communication,Communication,Student 3 (F2 cheveux bouclés),1.0,Seance_5_Tension_CV_LM,50
+Ecoute,Communication,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,50
+Reaction/Retours,Communication,Student 3 (F2 cheveux bouclés),1.0,Seance_5_Tension_CV_LM,50
+Travail equilibre ,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,50
+Objectifs du groupe,Travail d'equipe,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,50
+Social,Travail d'equipe,Student 3 (F2 cheveux bouclés),-1.0,Seance_5_Tension_CV_LM,50
+Conflit interpersonnel,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_5_Tension_CV_LM,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 3 (F2 cheveux bouclés),,Seance_5_Tension_CV_LM,50
+Partage de temps de parole,Intelligence sociale,Student 3 (F2 cheveux bouclés),1.0,Seance_5_Tension_CV_LM,50
+Maintenir les notions partagées ,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,50
+Argumentation ,Conflit constructif,Student 3 (F2 cheveux bouclés),1.0,Seance_5_Tension_CV_LM,50
+Ouverture,Conflit constructif,Student 3 (F2 cheveux bouclés),0.0,Seance_5_Tension_CV_LM,50
+Engagement,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,50
+Responsabilite,Regulation,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,50
+Coordination et evaluation du travail ,Regulation,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,50
+Communication,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,50
+Ecoute,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,50
+Reaction/Retours,Communication,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,50
+Travail equilibre ,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,50
+Objectifs du groupe,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,50
+Social,Travail d'equipe,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,50
+Conflit interpersonnel,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_5_Tension_CV_LM,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),,Seance_5_Tension_CV_LM,50
+Partage de temps de parole,Intelligence sociale,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,50
+Maintenir les notions partagées ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),1.0,Seance_5_Tension_CV_LM,50
+Argumentation ,Conflit constructif,Student 4 (F3 cheveux court en face du G1),2.0,Seance_5_Tension_CV_LM,50
+Ouverture,Conflit constructif,Student 4 (F3 cheveux court en face du G1),0.0,Seance_5_Tension_CV_LM,50
+Engagement,Regulation,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,50
+Responsabilite,Regulation,Student 5 (F4 intello),2.0,Seance_5_Tension_CV_LM,50
+Coordination et evaluation du travail ,Regulation,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,50
+Communication,Communication,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,50
+Ecoute,Communication,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,50
+Reaction/Retours,Communication,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,50
+Travail equilibre ,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,50
+Objectifs du groupe,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,50
+Social,Travail d'equipe,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,50
+Conflit interpersonnel,Intelligence sociale,Student 5 (F4 intello),,Seance_5_Tension_CV_LM,50
+Besoins émotionnels des collègues,Intelligence sociale,Student 5 (F4 intello),,Seance_5_Tension_CV_LM,50
+Partage de temps de parole,Intelligence sociale,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,50
+Maintenir les notions partagées ,Conflit constructif,Student 5 (F4 intello),1.0,Seance_5_Tension_CV_LM,50
+Argumentation ,Conflit constructif,Student 5 (F4 intello),2.0,Seance_5_Tension_CV_LM,50
+Ouverture,Conflit constructif,Student 5 (F4 intello),0.0,Seance_5_Tension_CV_LM,50
